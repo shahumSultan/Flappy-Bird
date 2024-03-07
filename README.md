@@ -1,2 +1,8 @@
-# A GAME OF FLAPPY BIRD WITH AI
-## Using supervised learning to train the bird to fly and acheive a high score
+# A game of Flappy Bird using AI
+***
+## Using NEAT module for the AI part
+***
+
+### To run this game:
+1. `pip install -r requirements.txt`
+2. `python main.py`
